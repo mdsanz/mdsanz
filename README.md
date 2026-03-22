@@ -17,9 +17,9 @@ const marcos: FullStackEngineer = {
   location:    "Mexico City, MX 🇲🇽",
   experience:  "3+ years in production environments",
   languages:   ["Spanish 🇲🇽 (Native)", "English 🇺🇸 (Fluent)"],
-  currentJob:  "Junior SWE @ Netcracker Technology",
+  currentJob:  "Software Engineer @ Netcracker Technology",
   education:   "B.S. Computer Systems Engineering — UNIR (Expected 2027)",
-  interests:   ["🤖 Generative AI & LLMs", "⚙️ Backend Systems", "🎮 Video Games", "⚽ Sports"],
+  interests:   ["🤖 Generative AI & LLMs", "⚙️ Backend Systems", "🎵 Music", "🎮 Video Games", "⚽ Sports"],
   hobbies:     ["Building side projects", "Competitive programming", "Exploring new tech"],
   available:   ["Freelance", "Consulting", "Open to opportunities"],
 };
@@ -144,8 +144,7 @@ const marcos: FullStackEngineer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sanz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.sanzlara@gmail.com)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mdsanz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mdsanz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mar.sanl)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mdsanz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mdsanz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mdsanz)
